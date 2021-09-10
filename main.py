@@ -83,3 +83,5 @@ if __name__ == "__main__":
     print("New situation: input data = ", A, B, C)
     print("Output data: ")
     print(neural_network.think(np.array([A, B, C])))
+
+     # testing this
